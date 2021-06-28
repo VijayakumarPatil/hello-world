@@ -1,2 +1,4 @@
 # hello-world
-A repository for testing
+Hello world!
+
+This is just a test edit for learning.
